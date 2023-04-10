@@ -4,7 +4,7 @@ import video from "./video.webm";
 function App() {
   return (
     <div style={{backgroundColor:"white", height:"100vh", width:"100%"}}>
-    <div className="happy">SEN BENİM DÜNYAMDAKİ TEK KRALİÇESİNNN</div>
+    <div className="happy">by-3/7</div>
     <div
       style={{
         width: "100%",
